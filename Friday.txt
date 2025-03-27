@@ -1,5 +1,6 @@
 Name: Nwekori Friday
 ID: 2423918
 Age: 29
-Contact
-User
+Email: fen1crt@bolton.ac.uk
+
+Course: MSc Software Engineering
